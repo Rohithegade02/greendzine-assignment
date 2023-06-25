@@ -1,0 +1,8 @@
+.main_card_container {
+  display: flex;
+  justify-content: center;
+
+  gap: 50px 180px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
